@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Geospatial-Analysis-GIS-Open-Data"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Geospatial-Analysis-GIS-Open-Data?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Geospatial-Analysis-GIS-Open-Data"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Geospatial-Analysis-GIS-Open-Data?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Geospatial-Analysis-GIS-Open-Data/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Geospatial-Analysis-GIS-Open-Data?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Geospatial-Analysis-GIS-Open-Data/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Geospatial-Analysis-GIS-Open-Data?color=blue" alt="GitHub issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Geospatial-Analysis-GIS-Open-Data/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
@@ -75,9 +75,9 @@ The market landscape demonstrates a **moderately fragmented, dual-structured dyn
 
 ## 💻 Open-Source GitHub Projects 🔓
 
-*Sorted descending by repository star count. Star count badges link directly to each repository's stargazers page.*
+*Sorted descending by repository Stars_Count. Stars_Count badges link directly to each repository's stargazers page.*
 
-| Project | Stars | Category / Focus | Description |
+| Project | GitHub_Stars | Category / Focus | Description |
 | :--- | :--- | :--- | :--- |
 | **[Leaflet](https://github.com/Leaflet/Leaflet)** | [![Leaflet Stars](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social&color=white)](https://github.com/Leaflet/Leaflet/stargazers) | 🗺️ Web Mapping | Leading open-source JavaScript library for mobile-friendly interactive maps. |
 | **[CesiumJS](https://github.com/CesiumGS/cesium)** | [![Cesium Stars](https://img.shields.io/github/stars/CesiumGS/cesium?style=social&color=white)](https://github.com/CesiumGS/cesium/stargazers) | 🌐 3D Geospatial & Globe | Open-source JavaScript library for creating world-class 3D globes and geospatial digital twins. |
